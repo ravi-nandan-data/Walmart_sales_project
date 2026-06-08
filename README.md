@@ -134,3 +134,23 @@ This project is licensed under the MIT License.
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+
+
+## Author
+
+**Ravi Nandan Yadav**
+
+Data Analyst | Market Research Analyst
+
+Email: ravinandanyadavwork@gmail.com
+
+LinkedIn: www.linkedin.com/in/ravi-nandan-yadav-26252a160
+
+---
+
+## Future Enhancements
+
+- Build an interactive Power BI dashboard.
+- Create predictive sales forecasting models.
+- Implement customer segmentation analysis.
+- Develop branch performance scorecards.
