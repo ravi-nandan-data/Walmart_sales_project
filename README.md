@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 
 **Ravi Nandan Yadav**
 
-Data Analyst | Market Research Analyst
+Data Analyst |
 
 Email: ravinandanyadavwork@gmail.com
 
